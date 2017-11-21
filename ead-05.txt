@@ -1,0 +1,97 @@
+COMÉRCIO ELETRÔNICO – MODELOS DE E-COMMERCE – EXERCÍCIOS
+
+01) Quais são as 4 principais categorias de aplicações de e-commerce? Faça a definição das mesmas, com suas palavras.
+       
+B2B – Quando duas empresas fazem negócios tanto como cliente quanto como fornecedor.
+B2C – Quando duas empresas fazem um negócio e o consumidor final é pessoa física.
+B2G – Quando empresas fazem negócios com governos
+C2C – Quando ocorre o negócios entre consumidores, normalmente intermediado por uma empresa.
+
+       
+       
+02) Quais funcionalidades estão presentes no modelo vitrine online?
+
+Processamento de transações, segurança, pagamento online e armazenamento de informações relacionadas às vendas
+
+
+
+03) De maneira geral, como funciona a tecnologia de carrinho de compras?
+
+É uma tecnologia onde os clientes possuem, virtualmente, um carrinho de compras para escolherem os produtos com comodidade e conforto, podendo incluir e  retirar produtos, e alterar quantidades de itens apenas com cliques do mouse.
+
+
+04) Quais são as vantagens de uma loja virtual possuir uma boa gerência dos dados dos clientes?
+
+Maior credibilidade e segurança transmitida para o cliente.
+
+
+05) Como uma loja virtual pode garantir o envio dos produtos no prazo estipulado?
+
+Atraves de empresas e transportadoras que fazem este tipo de serviço.
+
+
+06) Como é o funcionamento básico do modelo de Leilão?
+
+Em geral operam como um local de negócios, onde os usuários podem desempenhar tanto o papel de comprador como o de vendedor.
+Como vendedor, o usuário pode anunciar o item que deseja vender, fornecer informações a respeito do produto, estipular um preço mínimo e definir o prazo de encerramento do leilão. Como comprador,  o usuário pode pesquisar algum produto de interesse no site, ver o lance atual e dar seu próprio lance, na tentativa de adquirir o produto.
+
+
+07) O modelo de Leilão se aplica somente a C2C? Justifique.
+
+O modelo de leilão geralmente se encaixa na categoria C2C, mas existem casos de leilões em B2C – empresas cadastradas nos sites de leilões – e B2B e B2G, como por exemplo nos leilões reversos.
+
+08) Como funciona o leilão reverso?
+
+empresas que desejam comprar determinado produto entram em contato com os fornecedores. O fornecedor que oferecer o melhor preço de venda consegue o acordo. Ou seja, há uma competição entre os vendedores, na busca de um acordo com o cliente. É muito comum em licitações.
+
+09) Qual a vantagem do modelo portal em relação a apenas uma loja virtual?
+
+os portais geralmente fecham parcerias com diversas lojas virtuais, oferecendo, portanto, uma maior gama de produtos aos consumidores, já que a pesquisa realizada pelos usuários é, em geral, comum a todas as lojas vinculadas ao portal.
+
+10) Qual o diferencial oferecido pelo modelo Faça seu Preço?
+
+Nesse tipo de comércio, há um comprometimento de compra caso o preço seja aceito pelo parceiro
+
+11) No modelo de comparação de preços, o que deve ser levado em consideração além do menor preço? Justifique.
+
+Esses sites em geral possuem um ranking de aceitação das lojas virtuais parceiras, que ajudam os clientes a se decidirem também
+pelo melhor serviço prestado.
+
+
+12) Como funciona o modelo de Preço sensível à Demanda?
+
+Nesse modelo, quanto mais itens o cliente adquirir do mesmo produto ou produtos similares, mais baratos são os preços individuais
+para cada item
+
+13) Em qual situação o modelo de Troca pode ser interessante a uma empresa?
+
+Quando as empresas querem se desfazer do estoque excedente.
+
+
+14) Descreva, com suas palavras, o modelo de compras coletivas. Como este modelo gera lucro? Como é feita sua divulgação?
+
+É o modelo onde quando mais se tem venda do produto ofertado, mais barato ele fica. O lucro vem atraves da publicidade que se consegue. É feita por sites especializados.
+
+
+15) O que as lojas virtuais buscam oferecendo vários descontos aos clientes?
+
+Publicidade e propaganda
+
+16) Como as lojas que oferecem serviços gratuitos geram lucro?
+
+Atraves do publicidade
+
+
+17) Quais as vantagens de uma empresa completamente virtual sobre uma empresa de click e cimento? Quais as desvantagens?
+Vantagens:
+Conveniência
+Redução de custos para os consumidores
+Custos administrativos mais baixos
+Base de produtos maior e mais abrangente
+
+Desvantagens:
+Relacionamento com os clientes sem contato pessoal
+Dificuldade no reconhecimento da marca e satisfação do cliente
+Dificuldade na decisão de compra, baseando-se apenas em imagens dos produtos
+Equipamentos devem funcionar em um esquema 24x7 e aguentar cargas altas de conexões
+Nem todos os produtos e serviços são compatíveis
